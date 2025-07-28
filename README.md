@@ -2,7 +2,7 @@
 
 **`Estudante`**
 
-📌Olá! Me chamo Ingrid Fagundes dos Anjos, tenho 25 anos e sou natural de Curitiba/PR, atualmente morando em Campinas/SP há 3 anos.
+⬜ Olá! Me chamo Ingrid Fagundes dos Anjos, tenho 25 anos e sou natural de Curitiba/PR, atualmente morando em Campinas/SP há 3 anos.
 Estou cursando Análise e Desenvolvimento de Sistemas na [nome da instituição] e atuo na área de Tecnologia da Informação como Suporte Técnico.
 Tenho me dedicado aos estudos com foco em desenvolvimento de software, buscando evoluir constantemente para, em breve, conquistar meu objetivo de atuar como Desenvolvedora.  
 
