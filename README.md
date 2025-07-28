@@ -12,7 +12,7 @@ Meu nome é Ingrid Fagundes dos Anjos, tenho 25 anos e sou natural de Curitiba/P
           src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
     />
     </a>
-    <a href="[https://www.linkedin.com/in/seu_usuario/](https://www.linkedin.com/in/ingrid-fagundes-932841148?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app )" target="_blank">
+    <a href="[https://www.linkedin.com/in/ingrid-fagundes-932841148?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]" target="_blank">
     <img 
       alt="LinkedIn" 
       title="Conecte-se comigo no LinkedIn" 
